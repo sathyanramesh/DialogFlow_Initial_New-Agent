@@ -1,0 +1,36 @@
+{
+  "id": "c02cad54-4ef9-4f7e-a327-78081c3447f1",
+  "name": "app.voice.open",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.voice.open",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "15ac60da-cef2-4b69-837a-240412de13a0",
+          "dataType": "@app-name",
+          "name": "app-name",
+          "value": "$app-name"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504180259024,
+  "fallbackIntent": false,
+  "events": []
+}

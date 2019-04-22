@@ -1,0 +1,55 @@
+{
+  "id": "cb237465-6a04-4a64-8757-5120787102ee",
+  "parentId": "165ff17e-95cb-4447-9f73-27d3af57f287",
+  "rootParentId": "ba5812d3-ce1b-456a-80e1-22d74749923a",
+  "name": "bot.order - yes - beginner",
+  "auto": true,
+  "contexts": [
+    "botorder-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.order.beginner",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Congratulations on joining our bot\u0027s party!"
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "formattedText": "Here is how you start.",
+          "buttons": [
+            {
+              "title": "Get started",
+              "openUrlAction": {
+                "url": "https://docs.api.ai/docs/get-started"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Congratulations on joining our bot\u0027s party! Here is how you start: https://docs.api.ai/docs/get-started"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1495026295,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,374 @@
+[
+  {
+    "id": "fe49f2e0-91ec-4930-8b9b-3b9a3b882f1c",
+    "data": [
+      {
+        "text": "open ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      },
+      {
+        "text": " and install ",
+        "userDefined": false
+      },
+      {
+        "text": "Angry Birds",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53ef4491-15ee-42ad-84d7-e09e7254c28a",
+    "data": [
+      {
+        "text": "install app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe619fe4-977c-4796-9270-7e9bcc2bf8b2",
+    "data": [
+      {
+        "text": "could you install ",
+        "userDefined": false
+      },
+      {
+        "text": "Kik messenger",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fe1070d0-89a1-4c2e-8c72-205f7d6e1712",
+    "data": [
+      {
+        "text": "install ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3623ff1f-bf63-4e70-94e9-29da19ccecbb",
+    "data": [
+      {
+        "text": "Kik",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " installation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae453b40-5840-42bf-9493-3c76b0216b4f",
+    "data": [
+      {
+        "text": "Accu Weather",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " installation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95399e78-bdc5-4055-a0b8-9b6c878b06fc",
+    "data": [
+      {
+        "text": "do you have the ability to install apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "704ee3bd-0339-4697-9575-39c0064304b3",
+    "data": [
+      {
+        "text": "I need to install ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5db84726-c714-4a34-9a46-2892d3cde774",
+    "data": [
+      {
+        "text": "install ",
+        "userDefined": false
+      },
+      {
+        "text": "FB",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c5f27a7-72c5-4d4a-a8dc-4a4303628cb3",
+    "data": [
+      {
+        "text": "can you install apps from ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99ace258-d021-4ff5-8855-97fea8d213ed",
+    "data": [
+      {
+        "text": "install ",
+        "userDefined": false
+      },
+      {
+        "text": "Viber",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Market",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61802d36-a499-4874-8dee-b3f58a10b85e",
+    "data": [
+      {
+        "text": "could you install ",
+        "userDefined": false
+      },
+      {
+        "text": "Slack",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e8b032de-3439-4b8c-97eb-66277bf620a7",
+    "data": [
+      {
+        "text": "I want to install an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cd6a035d-8579-4165-8c3d-2e83b79b5b0a",
+    "data": [
+      {
+        "text": "install ",
+        "userDefined": false
+      },
+      {
+        "text": "Chrome",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2d9521a-a304-4536-8936-cd98b5a4f730",
+    "data": [
+      {
+        "text": "let\u0027s install ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e3fb1f9-4a86-44e2-8b8d-533901611253",
+    "data": [
+      {
+        "text": "install ",
+        "userDefined": false
+      },
+      {
+        "text": "Gmail",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3e63eb44-c3b1-4e4d-b9ef-f0e9b971320e",
+    "data": [
+      {
+        "text": "install application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "faded1b9-209f-4f09-ba72-6f51b3ffcb3e",
+    "data": [
+      {
+        "text": "app installation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "db2cc72d-373a-4dc7-890d-54503cf82096",
+    "data": [
+      {
+        "text": "install ",
+        "userDefined": false
+      },
+      {
+        "text": "Fruit Ninja",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

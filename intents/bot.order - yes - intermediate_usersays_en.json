@@ -1,0 +1,129 @@
+[
+  {
+    "id": "a5448b90-94fe-432c-b057-576806c34ba3",
+    "data": [
+      {
+        "text": "Intermediate (",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bots)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525706698
+  },
+  {
+    "id": "4e0d7e51-967a-4f24-85f5-c3282f1a8dd5",
+    "data": [
+      {
+        "text": "Intermediate (built a ",
+        "userDefined": false
+      },
+      {
+        "text": "couple",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of bots)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525706698
+  },
+  {
+    "id": "7acd7924-ba39-45c1-b276-34fcb3f4cde2",
+    "data": [
+      {
+        "text": "2",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "-",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " bots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525706698
+  },
+  {
+    "id": "4881ce52-971e-49f8-860b-2800054efdfe",
+    "data": [
+      {
+        "text": "I\u0027m not very experienced",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525706698
+  },
+  {
+    "id": "fb1b39ac-dead-4bae-8d47-eb2e409171b1",
+    "data": [
+      {
+        "text": "I\u0027ve built a ",
+        "userDefined": false
+      },
+      {
+        "text": "couple",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "bots",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525706698
+  },
+  {
+    "id": "fd91b4ee-8fbe-4906-b253-306793f3a7fb",
+    "data": [
+      {
+        "text": "intermediate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525706698
+  }
+]

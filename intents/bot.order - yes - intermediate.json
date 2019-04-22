@@ -1,0 +1,62 @@
+{
+  "id": "760a9ad5-b209-4aba-8439-e2af0cb7b939",
+  "parentId": "165ff17e-95cb-4447-9f73-27d3af57f287",
+  "rootParentId": "ba5812d3-ce1b-456a-80e1-22d74749923a",
+  "name": "bot.order - yes - intermediate",
+  "auto": true,
+  "contexts": [
+    "botorder-yes-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.order.intermediate",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "textToSpeech": "Cool. Keep developing your bots with us!"
+        },
+        {
+          "type": "carousel_card",
+          "platform": "google",
+          "lang": "en",
+          "items": [
+            {
+              "optionInfo": {
+                "key": "https://docs.api.ai/page/guidelines",
+                "synonyms": []
+              },
+              "title": "Check out some of our samples",
+              "description": "Samples show basic concepts."
+            },
+            {
+              "optionInfo": {
+                "key": "https://docs.api.ai/docs/prebuilt-agents",
+                "synonyms": []
+              },
+              "title": "And some of the Prebuilt Agents",
+              "description": "List of all available Prebuilt Agents."
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Cool. Keep developing your bots with us! Have a look at our guidelines here: https://docs.api.ai/docs/profile-bot-example-agent. Maybe you\u0027ll find some useful examples in our Prebuilt Agents, have a look here: https://docs.api.ai/docs/prebuilt-agents"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1525706698,
+  "fallbackIntent": false,
+  "events": []
+}

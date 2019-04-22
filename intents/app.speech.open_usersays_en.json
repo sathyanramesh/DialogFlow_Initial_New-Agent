@@ -1,0 +1,152 @@
+[
+  {
+    "id": "5c17db1c-2cd0-4a74-8ec6-72e780e58576",
+    "data": [
+      {
+        "text": "could you open ",
+        "userDefined": false
+      },
+      {
+        "text": "Cortana",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " speech settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2499a714-551b-48b7-aff7-73ac351e6e0c",
+    "data": [
+      {
+        "text": "open ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " speech settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bdde55e1-1ca9-474d-98db-7ae19a6d2adc",
+    "data": [
+      {
+        "text": "Google Assistant",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " speech settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "72391a6b-30bd-4bbf-bd4f-7a1285cdc073",
+    "data": [
+      {
+        "text": "how can I open the speech settings of the ",
+        "userDefined": false
+      },
+      {
+        "text": "Speaktoit Assistant",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a070850-f44d-4fb8-8945-7ec74ccac5b3",
+    "data": [
+      {
+        "text": "I\u0027d like to adjust ",
+        "userDefined": false
+      },
+      {
+        "text": "Sherpa",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app speech",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e25ef0fa-0876-48bf-ac9b-892142b87ee5",
+    "data": [
+      {
+        "text": "adjust ",
+        "userDefined": false
+      },
+      {
+        "text": "Allo",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " speech",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae60d1f9-c36e-4df3-ad1f-492d682358a7",
+    "data": [
+      {
+        "text": "go to ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Assistant",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " speech settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

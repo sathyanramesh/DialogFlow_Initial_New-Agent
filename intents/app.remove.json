@@ -1,0 +1,48 @@
+{
+  "id": "238369fd-b137-411e-842c-d283abbed288",
+  "name": "app.remove",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.remove",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "74cb39ae-d734-4839-9b6b-7f1e0bee5dde",
+          "dataType": "@app-name",
+          "name": "app-name",
+          "value": "$app-name"
+        },
+        {
+          "id": "b53d9f3c-d307-4ff8-b4c9-52d9541f0bc4",
+          "dataType": "@app-store-name",
+          "name": "store-name",
+          "value": "$store-name"
+        },
+        {
+          "id": "1d621dae-ddac-4abb-979f-3a0f1b68382b",
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504180258815,
+  "fallbackIntent": false,
+  "events": []
+}

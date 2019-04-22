@@ -1,0 +1,57 @@
+{
+  "id": "165ff17e-95cb-4447-9f73-27d3af57f287",
+  "parentId": "ba5812d3-ce1b-456a-80e1-22d74749923a",
+  "rootParentId": "ba5812d3-ce1b-456a-80e1-22d74749923a",
+  "name": "bot.order - yes",
+  "auto": true,
+  "contexts": [
+    "botorder-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "botorder.botorder-yes",
+      "affectedContexts": [
+        {
+          "name": "botorder-yes-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Beginner"
+            },
+            {
+              "title": "Intermediate (1-2 bots)"
+            },
+            {
+              "title": "Advanced (several bots)"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "That\u0027s great. Dialogflow provides powerful tools to create conversational interfaces and connect them to your web service. Now, tell me please, how familiar are you with building bots?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1534195203,
+  "fallbackIntent": false,
+  "events": []
+}

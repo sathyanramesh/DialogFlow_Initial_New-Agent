@@ -1,0 +1,49 @@
+{
+  "id": "de367d72-4ef3-4550-8f73-73719578f117",
+  "parentId": "ba5812d3-ce1b-456a-80e1-22d74749923a",
+  "rootParentId": "ba5812d3-ce1b-456a-80e1-22d74749923a",
+  "name": "bot.order - no",
+  "auto": true,
+  "contexts": [
+    "botorder-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "botorder.botorder-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "formattedText": "Introduction to API.AI",
+          "buttons": [
+            {
+              "title": "Get started",
+              "openUrlAction": {
+                "url": "https://docs.api.ai/docs/key-concepts"
+              }
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Then you\u0027re in the right place. API.AI provides powerful yet user-friendly tools to create conversational interfaces. You can implement very sophisticated dialogs without writing a line of code."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1494989999980,
+  "fallbackIntent": false,
+  "events": []
+}

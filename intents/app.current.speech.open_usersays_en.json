@@ -1,0 +1,86 @@
+[
+  {
+    "id": "ec695eec-7aff-4310-b7ce-3f1a7c165c7d",
+    "data": [
+      {
+        "text": "I want to adjust your speech",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c65bcfc5-e2ad-47a8-a70a-237a83f55916",
+    "data": [
+      {
+        "text": "show me your speech settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b27dd583-e57e-42ab-813f-165b5c799c29",
+    "data": [
+      {
+        "text": "where can I adjust your speech",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "63122323-912e-4d24-b8f5-8efb800771e0",
+    "data": [
+      {
+        "text": "open speech settings of your app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8af7d36f-1e22-42b0-b7af-a2a5d0ba475a",
+    "data": [
+      {
+        "text": "I\u0027d like to open your speech settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f0a6582-6455-473b-9fc3-a17c4dedc4a7",
+    "data": [
+      {
+        "text": "pull up speech settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5e484890-f665-4b7d-aec8-99b308dac02b",
+    "data": [
+      {
+        "text": "change your speech settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

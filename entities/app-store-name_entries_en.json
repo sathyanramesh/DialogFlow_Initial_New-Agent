@@ -1,0 +1,36 @@
+[
+  {
+    "value": "Google App Store",
+    "synonyms": [
+      "google app store"
+    ]
+  },
+  {
+    "value": "Google Play",
+    "synonyms": [
+      "play store",
+      "play market",
+      "google play",
+      "android market",
+      "google play store"
+    ]
+  },
+  {
+    "value": "Windows Store",
+    "synonyms": [
+      "windows store",
+      "windows app store",
+      "microsoft app store"
+    ]
+  },
+  {
+    "value": "App Store",
+    "synonyms": [
+      "app store",
+      "apple store",
+      "apple app store",
+      "apple appstore",
+      "appstore"
+    ]
+  }
+]

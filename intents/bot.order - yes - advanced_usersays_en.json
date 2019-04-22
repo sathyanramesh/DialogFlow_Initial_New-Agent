@@ -1,0 +1,107 @@
+[
+  {
+    "id": "79daa320-aed5-4413-96c4-7044be5704dd",
+    "data": [
+      {
+        "text": "advanced (several bots)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534195298
+  },
+  {
+    "id": "72f06a2b-12eb-4519-8a97-7d6152fb023f",
+    "data": [
+      {
+        "text": "I build bots every day",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534195298
+  },
+  {
+    "id": "8ae541bf-34d6-443d-af9d-bde575be0304",
+    "data": [
+      {
+        "text": "I\u0027ve built ",
+        "userDefined": false
+      },
+      {
+        "text": "100",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "+ bots",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534195298
+  },
+  {
+    "id": "043ccd9c-8fd8-4ae6-ae54-425ee172f66d",
+    "data": [
+      {
+        "text": "that\u0027s how I earn money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534195298
+  },
+  {
+    "id": "12258c88-378c-4dc8-b50c-ba8c80111883",
+    "data": [
+      {
+        "text": "I do it for life",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534195298
+  },
+  {
+    "id": "9b09369b-7b3a-4128-84e5-04955b6076f1",
+    "data": [
+      {
+        "text": "I\u0027m a professional bot builder",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534195298
+  },
+  {
+    "id": "26186ef3-e17f-404b-bcb5-f9ffede5b47b",
+    "data": [
+      {
+        "text": "it\u0027s my job",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534195298
+  },
+  {
+    "id": "b08c2559-16ce-4cb3-984b-1eddf86e40b6",
+    "data": [
+      {
+        "text": "advanced",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1534195298
+  }
+]

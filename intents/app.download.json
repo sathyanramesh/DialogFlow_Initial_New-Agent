@@ -1,0 +1,42 @@
+{
+  "id": "88079dad-234d-40bd-8553-6b77b80bcfe7",
+  "name": "app.download",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.download",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bcec306d-d17b-44e1-b1ed-aa5f09c9f486",
+          "dataType": "@app-name",
+          "name": "app-name",
+          "value": "$app-name"
+        },
+        {
+          "id": "3bbbe59d-4b47-4232-91da-e2cb539fbfd0",
+          "dataType": "@app-store-name",
+          "name": "store-name",
+          "value": "$store-name"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504180258972,
+  "fallbackIntent": false,
+  "events": []
+}

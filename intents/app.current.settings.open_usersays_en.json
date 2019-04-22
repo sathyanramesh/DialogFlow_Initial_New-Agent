@@ -1,0 +1,110 @@
+[
+  {
+    "id": "632f5796-8ed3-4748-bb82-2b098fec8081",
+    "data": [
+      {
+        "text": "I\u0027d like to open your settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "702e3e5b-8036-42ba-9640-37ca3bdb4043",
+    "data": [
+      {
+        "text": "go to your settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b061bf08-bdb0-406e-8c90-4658bea08867",
+    "data": [
+      {
+        "text": "open settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "130011ef-ece5-4802-a05c-bf48298130f1",
+    "data": [
+      {
+        "text": "could you open your settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "de386650-7ab7-480b-bf05-7c48def0e4d8",
+    "data": [
+      {
+        "text": "settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5dba2272-a696-41de-8265-7a6b9037cda3",
+    "data": [
+      {
+        "text": "show me your settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b96ebda3-7ecd-4e9d-b455-4e92eff99733",
+    "data": [
+      {
+        "text": "open settings of this app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "40c1ee5b-743e-47db-ae8d-2021e098dccc",
+    "data": [
+      {
+        "text": "where can I set up your app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e912e2f8-53b5-4ea5-a5a1-f9b717ef0fdd",
+    "data": [
+      {
+        "text": "where are your settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

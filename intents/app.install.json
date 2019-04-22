@@ -1,0 +1,42 @@
+{
+  "id": "b20bb97b-f051-441b-98d0-8c05d68bf8b8",
+  "name": "app.install",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.install",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b20e82d3-0a7c-4555-bd72-84e2befb2468",
+          "dataType": "@app-name",
+          "name": "app-name",
+          "value": "$app-name"
+        },
+        {
+          "id": "b94aae70-0597-4c33-aebf-8d2a2cc6f26a",
+          "dataType": "@app-store-name",
+          "name": "store-name",
+          "value": "$store-name"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504180258917,
+  "fallbackIntent": false,
+  "events": []
+}

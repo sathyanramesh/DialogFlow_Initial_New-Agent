@@ -1,0 +1,108 @@
+[
+  {
+    "id": "04a29877-3362-4f2c-9da5-5380eef633bd",
+    "data": [
+      {
+        "text": "tell me about virtual ",
+        "userDefined": false
+      },
+      {
+        "text": "assistants",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45c312dc-5fd6-463d-af6c-8f35cd6ef846",
+    "data": [
+      {
+        "text": "do you know anything about conversation apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f86876e1-b1f2-43ee-8797-088ae3087d91",
+    "data": [
+      {
+        "text": "what is a chatbot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb33f01a-1476-47c5-84a1-294aa6f28227",
+    "data": [
+      {
+        "text": "what are virtual assistants",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "85a0dae2-726e-4eab-98f5-2542a93629e3",
+    "data": [
+      {
+        "text": "what are chatbots designed for",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "00f82d38-41ba-4437-9c34-077d76c2c1e2",
+    "data": [
+      {
+        "text": "who are ",
+        "userDefined": false
+      },
+      {
+        "text": "bots",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04ff217f-3c0d-4610-8fc8-fbe7a004c941",
+    "data": [
+      {
+        "text": "how does a bot work",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fb1de1ce-1c37-4011-900f-738a776a8317",
+    "data": [
+      {
+        "text": "what is a assistant app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

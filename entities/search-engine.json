@@ -1,0 +1,8 @@
+{
+  "id": "55311838-5acf-4f41-8edc-9472a143d386",
+  "name": "search-engine",
+  "isOverridable": true,
+  "isEnum": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

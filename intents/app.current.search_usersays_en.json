@@ -1,0 +1,161 @@
+[
+  {
+    "id": "1a2645f9-5849-4a5d-8915-438aaf18d1cd",
+    "data": [
+      {
+        "text": "can I find you in ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Market",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "af3a2f89-554b-4ae4-8925-d8470ae6dcf6",
+    "data": [
+      {
+        "text": "can I search for your app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "562cfcb6-2709-4fee-9e8e-22f0a86d8ee2",
+    "data": [
+      {
+        "text": "search for your application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f2def515-6bed-43a3-9247-185887b3cbd7",
+    "data": [
+      {
+        "text": "where I find your application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61436d9d-fe67-4067-8b51-c76762297cc6",
+    "data": [
+      {
+        "text": "search yourself in ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "663d42fe-0aba-4af9-b9de-8c7dd67028ff",
+    "data": [
+      {
+        "text": "search your app ",
+        "userDefined": false
+      },
+      {
+        "text": "on",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e94dc89-f648-48a4-ae9d-6c9f73781347",
+    "data": [
+      {
+        "text": "tell me where can I find you",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2e5b42f0-4c58-4f6d-944f-2d29d5f8b5bf",
+    "data": [
+      {
+        "text": "are you on ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0461ef55-a9bd-43c6-92af-fb3c3b533a20",
+    "data": [
+      {
+        "text": "find your app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7a79e79-43be-4adf-a4e0-1c3e0b6ba96e",
+    "data": [
+      {
+        "text": "search for your app in ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,606 @@
+[
+  {
+    "id": "5c6a630c-f937-478a-b447-501f5ac62c0c",
+    "data": [
+      {
+        "text": "download application ",
+        "userDefined": false
+      },
+      {
+        "text": "Kik",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "64f6643f-87f9-41ed-9999-910e56fe234e",
+    "data": [
+      {
+        "text": "load app from ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8152da2b-3199-4482-8afd-6b57f3c745ae",
+    "data": [
+      {
+        "text": "load app from ",
+        "userDefined": false
+      },
+      {
+        "text": "the Internet",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e6fed81f-9144-4521-a2c8-39acaeeaadee",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " you download apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc47d491-3069-4714-98af-8469c706fdc6",
+    "data": [
+      {
+        "text": "could you download ",
+        "userDefined": false
+      },
+      {
+        "text": "WhatsApp",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4a3f5ac4-04a9-436d-a58b-ed2b45391890",
+    "data": [
+      {
+        "text": "how can I download an app from ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "935fd5cf-a20f-4933-ba96-acbe6a0ec688",
+    "data": [
+      {
+        "text": "can you ",
+        "userDefined": false
+      },
+      {
+        "text": "get",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " an app from ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b45137dc-8e3d-4fbf-8974-fda6f63ea0cf",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53d004b7-4c12-451f-a85b-6810cde1f534",
+    "data": [
+      {
+        "text": "download app ",
+        "userDefined": false
+      },
+      {
+        "text": "Soccer",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "98382f20-ae1f-4b9f-864e-d5ec04745e8c",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you download ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook Messenger",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed4e7555-e195-40f4-b418-850181fb6b3e",
+    "data": [
+      {
+        "text": "download from ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Play",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7aee5c92-4db3-486a-bb68-93926ab7bdd5",
+    "data": [
+      {
+        "text": "how do I download an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ae57be3f-7ef8-4ce0-9e0f-1c6e36c0c015",
+    "data": [
+      {
+        "text": "download application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b6f6cbb6-4fca-427b-ab54-2df5df308c46",
+    "data": [
+      {
+        "text": "get me ",
+        "userDefined": false
+      },
+      {
+        "text": "Viber",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f6d33c4-9126-4ea6-ba9a-03c635475661",
+    "data": [
+      {
+        "text": "I want to download ",
+        "userDefined": false
+      },
+      {
+        "text": "Fruit Ninja",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " from the ",
+        "userDefined": false
+      },
+      {
+        "text": "App Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95ba9daf-2876-4261-9ed6-242c3a272f5b",
+    "data": [
+      {
+        "text": "I need you to download ",
+        "userDefined": false
+      },
+      {
+        "text": "Bitmoji",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7e3713a2-05af-4dd9-8fad-70e5fafcb4d5",
+    "data": [
+      {
+        "text": "I want to download ",
+        "userDefined": false
+      },
+      {
+        "text": "Clash of Clans",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bd93e126-f94c-400b-96ef-5fd3809fbe07",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "Viber",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "104b48ea-2e6c-4567-93f0-fec5338a69d1",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " I download an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bbb46119-308a-450f-a719-da0582396c8e",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Chrome",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "19801013-285d-4902-ba02-b4af9fda446b",
+    "data": [
+      {
+        "text": "could you download ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7ce48c85-c32b-4b00-bffa-e2f4d0b0240a",
+    "data": [
+      {
+        "text": "I\u0027d like to download an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e4f6cea3-2c81-4dc1-91fb-b9c03341018d",
+    "data": [
+      {
+        "text": "Angry birds",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " download",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42e1bf7e-585e-42ff-8b39-ec215132cd3d",
+    "data": [
+      {
+        "text": "download ",
+        "userDefined": false
+      },
+      {
+        "text": "Vine",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " from the ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a2fe5a60-de8b-4a8a-adf3-1a034f51fc37",
+    "data": [
+      {
+        "text": "I want to download ",
+        "userDefined": false
+      },
+      {
+        "text": "Vine",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " from the ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Store",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "aeb691b7-9aa3-4426-8c42-bb20b20e1acb",
+    "data": [
+      {
+        "text": "get ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "837c92aa-2a70-4c25-889c-460cce635e7d",
+    "data": [
+      {
+        "text": "could you download ",
+        "userDefined": false
+      },
+      {
+        "text": "Instagram",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "55add02b-bb3f-4714-843b-adb4f52941ca",
+    "data": [
+      {
+        "text": "I would like to download the ",
+        "userDefined": false
+      },
+      {
+        "text": "Task Manager",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "Play Market",
+        "alias": "store-name",
+        "meta": "@app-store-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "87930a26-84e9-42ea-8145-0d41ddc94e4a",
+    "data": [
+      {
+        "text": "can",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " you download an app for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

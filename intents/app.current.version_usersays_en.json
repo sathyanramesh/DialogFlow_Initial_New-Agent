@@ -1,0 +1,133 @@
+[
+  {
+    "id": "e5b5bb06-2e53-4ac8-959f-6321c3e60beb",
+    "data": [
+      {
+        "text": "do I have the latest version of your application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "42c183ee-3f79-44c7-b494-e0dd4f277e9c",
+    "data": [
+      {
+        "text": "what version am I using",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d393cdf6-0f05-4327-b1f7-66dd2dfcba1e",
+    "data": [
+      {
+        "text": "version",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cc0deb33-b30a-4ed2-ba13-b962e7fd224c",
+    "data": [
+      {
+        "text": "is it the latest version",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93960548-1b34-494a-a30a-0ba61caa05b5",
+    "data": [
+      {
+        "text": "what version do I use",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0ca20a20-b58e-42b4-8f7f-c07aedd72637",
+    "data": [
+      {
+        "text": "show me the version of this app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "555c57f2-b756-4764-b453-bcd09f56819f",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "current",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " version of your app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "317db975-bc94-4929-babb-f79bf90a4003",
+    "data": [
+      {
+        "text": "what\u0027s the ",
+        "userDefined": false
+      },
+      {
+        "text": "current",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " version of this app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5b148ec8-4ee7-4229-9474-20a555544a65",
+    "data": [
+      {
+        "text": "current",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " version",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "id": "a91c01ef-0a61-4b81-85b3-b8376ac2312c",
+  "name": "app.close",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.close",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c86bc3d4-fb38-4ad6-9c5e-83679bf43ad3",
+          "required": false,
+          "dataType": "@app-name",
+          "name": "app-name",
+          "value": "$app-name",
+          "isList": false
+        },
+        {
+          "id": "4be7cdf5-3cc1-402d-9481-0322fb521f0c",
+          "required": false,
+          "dataType": "@app-store-name",
+          "name": "store-name",
+          "value": "$store-name",
+          "isList": false
+        },
+        {
+          "id": "815acb38-0513-454d-baaf-2a3a02140d26",
+          "required": false,
+          "dataType": "@all",
+          "name": "all",
+          "value": "$all",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Closing. Titan at your service"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504180259137,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,29 @@
+{
+  "id": "f5560e98-4007-4ccc-9c3e-e27d1d5bc048",
+  "name": "app.current.notifications.open",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.current.notifications.open",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504180258891,
+  "fallbackIntent": false,
+  "events": []
+}

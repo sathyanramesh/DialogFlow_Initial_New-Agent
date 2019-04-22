@@ -1,0 +1,154 @@
+[
+  {
+    "id": "8b6cfa8e-2811-4d15-85cd-5af04f922ee4",
+    "data": [
+      {
+        "text": "any notifications from ",
+        "userDefined": false
+      },
+      {
+        "text": "Angry birds",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c5e2caf2-b90f-40a7-990c-9c08ee9d5e5d",
+    "data": [
+      {
+        "text": "show notifications from ",
+        "userDefined": false
+      },
+      {
+        "text": "my",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "10e9f5a2-3df8-4aba-b121-e1799a99e4f3",
+    "data": [
+      {
+        "text": "could you read",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " notifications from my ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "816601c0-04e8-4b9f-87af-12c86cfa2912",
+    "data": [
+      {
+        "text": "access ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Assistant",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " notifications menu",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b80255ae-79cb-4b7a-9118-8167fde6b3fa",
+    "data": [
+      {
+        "text": "open ",
+        "userDefined": false
+      },
+      {
+        "text": "Allo",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " notifications settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "18204787-8008-4cb1-a098-6e81369a4d75",
+    "data": [
+      {
+        "text": "read notifications from ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dc637014-623e-4420-96fa-7eed05058571",
+    "data": [
+      {
+        "text": "open ",
+        "userDefined": false
+      },
+      {
+        "text": "Slack",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " notifications",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

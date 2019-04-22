@@ -1,0 +1,27 @@
+[
+  {
+    "value": "top",
+    "synonyms": [
+      "top",
+      "biggest",
+      "main",
+      "hottest"
+    ]
+  },
+  {
+    "value": "trending",
+    "synonyms": [
+      "trending"
+    ]
+  },
+  {
+    "value": "latest",
+    "synonyms": [
+      "latest",
+      "recent",
+      "current",
+      "right now",
+      "breaking"
+    ]
+  }
+]

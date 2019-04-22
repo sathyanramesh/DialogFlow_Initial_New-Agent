@@ -1,0 +1,110 @@
+[
+  {
+    "id": "f81542c3-03ca-4407-bead-0d55089e309d",
+    "data": [
+      {
+        "text": "close settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "784ea64c-661f-46fc-8893-3baedaef313a",
+    "data": [
+      {
+        "text": "could you close your settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "61b81add-fa9a-4ba7-9a3c-5c5570adb128",
+    "data": [
+      {
+        "text": "I\u0027d like to close your settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1dbae591-bc8b-4f1e-ae0c-15d2244eb337",
+    "data": [
+      {
+        "text": "how do I close the settings of this app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "254cb145-417c-4631-931b-3e5c5049eb5e",
+    "data": [
+      {
+        "text": "exit settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c26a6c46-12be-46b6-984a-363d145c58e6",
+    "data": [
+      {
+        "text": "leave the settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b4e29c9c-e8b7-4ff8-b65e-495ced06b6d3",
+    "data": [
+      {
+        "text": "get out of your settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "43940aaa-45c0-4509-8af4-1ec205e6e73c",
+    "data": [
+      {
+        "text": "close your settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9d98650b-85f9-42ab-8d50-629cbeaa574c",
+    "data": [
+      {
+        "text": "exit this app\u0027s settings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

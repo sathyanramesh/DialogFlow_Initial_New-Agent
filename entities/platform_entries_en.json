@@ -1,0 +1,14 @@
+[
+  {
+    "value": "@sdk:sdk ",
+    "synonyms": [
+      "@sdk:sdk "
+    ]
+  },
+  {
+    "value": "@integration:integration",
+    "synonyms": [
+      "@integration:integration"
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "17a94653-31a2-4185-b6e8-2c62a46a0423",
+  "name": "bot.features",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "bot.features",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "I\u0027m a sample FAQ bot. I can give information about chatbots and how to build them with API.AI."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "slack": true,
+        "facebook": true,
+        "telegram": true,
+        "google": true,
+        "viber": true,
+        "kik": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1494989999930,
+  "fallbackIntent": false,
+  "events": []
+}

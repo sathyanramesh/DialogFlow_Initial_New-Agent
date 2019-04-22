@@ -1,0 +1,36 @@
+{
+  "id": "0645e85e-6eb8-4910-9edc-88cb0b84d89b",
+  "name": "app.settings.close",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "app.settings.close",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2f808e1a-9f17-406f-b7a0-da8ffe51071a",
+          "dataType": "@app-name",
+          "name": "app-name",
+          "value": "$app-name"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504180259031,
+  "fallbackIntent": false,
+  "events": []
+}

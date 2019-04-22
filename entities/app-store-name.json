@@ -1,0 +1,8 @@
+{
+  "id": "b2e3373a-381b-4002-bc3f-e929819aa660",
+  "name": "app-store-name",
+  "isOverridable": true,
+  "isEnum": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

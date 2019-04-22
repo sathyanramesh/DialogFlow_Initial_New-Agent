@@ -1,0 +1,288 @@
+[
+  {
+    "id": "1644a195-a03b-4fb9-a1be-2777dc4fdadf",
+    "data": [
+      {
+        "text": "show me how to reset an application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3980728e-04d1-4c22-8579-bb16a6a90a64",
+    "data": [
+      {
+        "text": "I want to reset an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "35de5fd1-f825-4068-8d79-499ba8c72e73",
+    "data": [
+      {
+        "text": "reset ",
+        "userDefined": false
+      },
+      {
+        "text": "Angry Birds",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26ab8c52-823c-4733-b3b0-b4d7641810f6",
+    "data": [
+      {
+        "text": "could you reset ",
+        "userDefined": false
+      },
+      {
+        "text": "Gmail",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "472b8b37-bfa1-4cec-97db-18aff284026a",
+    "data": [
+      {
+        "text": "reset ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " apps on my device",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc703ef5-6699-49da-a2b0-433b9fbda0c5",
+    "data": [
+      {
+        "text": "reset app called ",
+        "userDefined": false
+      },
+      {
+        "text": "Viber",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0c1d121-4594-4755-8df0-3225e49f468e",
+    "data": [
+      {
+        "text": "I need to reset ",
+        "userDefined": false
+      },
+      {
+        "text": "WhatsApp",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eed44ad9-4860-4b2c-91f8-eff5e0b9ec51",
+    "data": [
+      {
+        "text": "how can I reset an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7088993-dbfe-481d-8608-2d4245acd1fe",
+    "data": [
+      {
+        "text": "how can I reset the application ",
+        "userDefined": false
+      },
+      {
+        "text": "Facebook",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c36730c0-5b8b-42e7-b206-57f30c400578",
+    "data": [
+      {
+        "text": "reset ",
+        "userDefined": false
+      },
+      {
+        "text": "Twitter",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " application",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "071f7f5a-2607-4dc4-b9b8-a7a201decd15",
+    "data": [
+      {
+        "text": "reset an app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8d12caef-c90a-46f6-97fe-2c24c4ce79b4",
+    "data": [
+      {
+        "text": "tell me how to reset ",
+        "userDefined": false
+      },
+      {
+        "text": "Kik messenger",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f8eafef-ae68-4023-980b-0afd77fc970a",
+    "data": [
+      {
+        "text": "reset ",
+        "userDefined": false
+      },
+      {
+        "text": "Google Calendar",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": false
+      },
+      {
+        "text": " for me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8efcd28-f6fb-4a23-8ca2-0a723a568fdf",
+    "data": [
+      {
+        "text": "reset ",
+        "userDefined": false
+      },
+      {
+        "text": "all",
+        "alias": "all",
+        "meta": "@all",
+        "userDefined": true
+      },
+      {
+        "text": " apps",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ed4256bd-6400-49e7-9e95-f5aa4b692ccc",
+    "data": [
+      {
+        "text": "how do I reset the ",
+        "userDefined": false
+      },
+      {
+        "text": "Skype",
+        "alias": "app-name",
+        "meta": "@app-name",
+        "userDefined": true
+      },
+      {
+        "text": " app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "68db405b-8b10-4d07-bd79-589713697b3b",
+    "data": [
+      {
+        "text": "reset app",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]
